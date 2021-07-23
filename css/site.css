@@ -43,3 +43,19 @@ footer .social>a:hover{
 main>.container {
     padding: 60px 15px 0;
 }
+
+.bsicon {
+    color: #8312FA;
+}
+
+.jsicon {
+    color: #F0DB4F;
+}
+
+.html5icon {
+    color: #E44D26;
+}
+
+.cssicon {
+    color: #0A71B8;
+}
