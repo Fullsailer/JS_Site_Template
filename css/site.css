@@ -35,7 +35,7 @@ footer .social>a {
     opacity: 0.75;
 }
 
-footer .social>a:hover{
+footer .social>a:hover {
     opacity: 0.9;
     color: var(--secondary-color)
 }
@@ -58,4 +58,15 @@ main>.container {
 
 .cssicon {
     color: #0A71B8;
+}
+
+.checklist>li i {
+    color: var(--secondary-color);
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+    white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
 }
